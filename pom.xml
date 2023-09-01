@@ -32,7 +32,7 @@
                 <sonar.host.url>
                   http://localhost:9099
                 </sonar.host.url>
-                <sonar.token>d</sonar.token>
+                <sonar.token>sqp_d40a10e169afd1c0a9e4c2abd46fb92c4aae18cd</sonar.token>
                 <sonar.login>admin</sonar.login>
                 <sonar.password>anjani@76</sonar.password>
 
